@@ -38,6 +38,7 @@ OPCIONES
    -p     Solo palabra.
    -r     Recursivo.
    -x     Sin colores.
+   -y     Reemplaza.
 """
 
 import sys
